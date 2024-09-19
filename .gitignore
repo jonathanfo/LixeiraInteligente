@@ -1,0 +1,13 @@
+# Ignorar arquivos de sistema
+*.DS_Store
+*.log
+*.tmp
+
+# Ignorar diretórios de build
+build/
+dist/
+
+# Ignorar arquivos e diretórios específicos
+*.exe
+*.dll
+*.o
